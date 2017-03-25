@@ -1,17 +1,17 @@
-= KOG Home
+# KOG Home
 
 Testing github pages
 
-== Cool Stuff
+## Cool Stuff
 
 Cool stuff here.
 
-== More Cool Stuff
+## More Cool Stuff
 
-=== Part A
+### Part A
 
 Details of A.
 
-=== Part B
+### Part B
 
 Details of B.
