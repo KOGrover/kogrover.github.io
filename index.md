@@ -1,4 +1,4 @@
-### Kevin O. Grover
+# Kevin O. Grover
 
 Testing github pages
 

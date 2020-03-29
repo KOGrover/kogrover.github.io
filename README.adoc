@@ -1,3 +1,5 @@
 = README
 
-Kevin's Web Page.   Using github pages.
+Source code for http://kevingrover.net.
+
+Hosted on github http://kogrover.github.io.
